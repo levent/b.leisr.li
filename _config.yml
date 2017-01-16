@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: B leisr.li
-email: b@leisr.li
+title: Be.Leisr.li
+email: be@leisr.li
 description: > # this means to ignore newlines until "baseurl:"
   A blog about nothing and anything by Levent Ali, the CTO and co-founder of Brapp.
 baseurl: "" # the subpath of your site, e.g. /blog
