@@ -10,7 +10,7 @@ $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$headings-font-family: "acier-bat-solid";
+$headings-font-family: "acier-bat-gris", sans-serif;
 
 $spacing-unit:     30px;
 
@@ -41,16 +41,15 @@ $on-laptop:        800px;
 @import "minima";
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "acier-bat-solid",sans-serif;
+  font-family: $headings-font-family;
   font-style: normal;
   font-weight: 400;
 }
 .site-title {
-  font-family: "spumante",sans-serif;
+  font-family: $headings-font-family;
   font-style: normal;
-  font-weight: 700;
-  font-size: 38px;
-  line-height: 56px;
+  font-weight: 400;
+  font-size: 42px;
   &:hover {
     text-decoration: none;
   }
