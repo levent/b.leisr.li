@@ -16,7 +16,7 @@
 title: b.leisr.li
 email: b@leisr.li
 description: > # this means to ignore newlines until "baseurl:"
-  This is currently a blog about nothing.
+  A blog about nothing and anything by Levent Ali, the CTO and co-founder of Brapp.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://b.leisr.li" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lebreeze
