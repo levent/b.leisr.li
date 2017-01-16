@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: b.leisr.li
+title: B leisr.li
 email: b@leisr.li
 description: > # this means to ignore newlines until "baseurl:"
   A blog about nothing and anything by Levent Ali, the CTO and co-founder of Brapp.
@@ -22,6 +22,7 @@ url: "http://b.leisr.li" # the base hostname & protocol for your site, e.g. http
 twitter_username: lebreeze
 github_username: levent
 typekit: adm3fgm
+author: Levent Ali
 
 # Build settings
 markdown: kramdown

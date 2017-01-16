@@ -10,7 +10,8 @@ $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$headings-font-family: "acier-bat-gris", sans-serif;
+$headings-font-family: "acier-bat-outline", sans-serif;
+$logo-font-family: "spumante", sans-serif;
 
 $spacing-unit:     30px;
 
@@ -45,10 +46,13 @@ h1, h2, h3, h4, h5, h6 {
   font-style: normal;
   font-weight: 400;
 }
-.site-title {
-  font-family: $headings-font-family;
+.site-title,
+.footer-heading {
+  font-family: $logo-font-family;
   font-style: normal;
   font-weight: 400;
+}
+.site-title {
   font-size: 42px;
   &:hover {
     text-decoration: none;
