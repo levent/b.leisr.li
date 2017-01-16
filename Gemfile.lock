@@ -213,6 +213,7 @@ DEPENDENCIES
   html-proofer
   jekyll-compose
   jekyll-feed (~> 0.6)
+  jekyll-sitemap
 
 RUBY VERSION
    ruby 2.3.3p222
