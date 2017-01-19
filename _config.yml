@@ -18,12 +18,12 @@ email: be@leisr.li
 description: > # this means to ignore newlines until "baseurl:"
   A blog about nothing and anything by Levent Ali, the CTO and co-founder of Brapp.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://b.leisr.li" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://be.leisr.li" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lebreeze
 github_username: levent
 typekit: adm3fgm
 author: Levent Ali
-google_analytics: UA-4091770-18
+google_analytics: UA-90610807-1
 
 # Build settings
 markdown: kramdown
